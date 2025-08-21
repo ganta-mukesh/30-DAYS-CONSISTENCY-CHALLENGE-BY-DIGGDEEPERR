@@ -20,6 +20,16 @@ Problems Solved:
 
 ---
 
+### ✅ Day 2  
+Problems Solved:  
+1. Contains Duplicate – [LeetCode 217](https://leetcode.com/problems/contains-duplicate/)  
+2. Missing Number – [LeetCode 268](https://leetcode.com/problems/missing-number/)  
+3. First Unique Character in a String – [LeetCode 387](https://leetcode.com/problems/first-unique-character-in-a-string/)  
+
+✔️ **Status**: Done  
+
+---
+
 ## 🏆 Motivation  
 > “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”  
 
