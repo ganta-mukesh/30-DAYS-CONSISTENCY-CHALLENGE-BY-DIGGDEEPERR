@@ -30,6 +30,16 @@ Problems Solved:
 
 ---
 
+### ✅ Day 3  
+Problems Solved:  
+1. Palindrome Number – [LeetCode 9](https://leetcode.com/problems/palindrome-number/)  
+2. Roman to Integer – [LeetCode 13](https://leetcode.com/problems/roman-to-integer/)  
+3. Length of Last Word – [LeetCode 58](https://leetcode.com/problems/length-of-last-word/)  
+
+✔️ **Status**: Done  
+
+---
+
 ## 🏆 Motivation  
 > “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”  
 
