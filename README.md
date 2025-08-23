@@ -40,6 +40,16 @@ Problems Solved:
 
 ---
 
+### ✅ Day 4  
+Problems Solved:  
+1. Single Number – [LeetCode 136](https://leetcode.com/problems/single-number/)  
+2. Merge Sorted Array – [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/)  
+3. Intersection of Two Arrays II – [LeetCode 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  
+
+✔️ **Status**: Done  
+
+---
+
 ## 🏆 Motivation  
 > “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”  
 
