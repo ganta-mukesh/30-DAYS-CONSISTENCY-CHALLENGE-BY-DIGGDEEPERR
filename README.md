@@ -50,6 +50,16 @@ Problems Solved:
 
 ---
 
+### ✅ Day 5  
+Problems Solved:  
+1. Longest Common Prefix – [LeetCode 14](https://leetcode.com/problems/longest-common-prefix/)  
+2. Happy Number – [LeetCode 202](https://leetcode.com/problems/happy-number/)  
+3. Number of 1 Bits – [LeetCode 191](https://leetcode.com/problems/number-of-1-bits/)  
+
+✔️ **Status**: Done  
+
+---
+
 ## 🏆 Motivation  
 > “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”  
 
