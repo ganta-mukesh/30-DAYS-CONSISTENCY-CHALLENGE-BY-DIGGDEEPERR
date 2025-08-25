@@ -60,6 +60,16 @@ Problems Solved:
 
 ---
 
+### ✅ Day 6  
+Problems Solved:  
+1. 3 Sum – [LeetCode 15](https://leetcode.com/problems/3sum/)  
+2. Longest Consecutive Sequence – [LeetCode 128](https://leetcode.com/problems/longest-consecutive-sequence/)  
+3. Sort Colors – [LeetCode 75](https://leetcode.com/problems/sort-colors/)  
+
+✔️ **Status**: Done  
+
+---
+
 ## 🏆 Motivation  
 > “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”  
 
