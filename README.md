@@ -66,7 +66,16 @@ Problems Solved:
 2. Longest Consecutive Sequence – [LeetCode 128](https://leetcode.com/problems/longest-consecutive-sequence/)  
 3. Sort Colors – [LeetCode 75](https://leetcode.com/problems/sort-colors/)  
 
+✔️ **Status**: Done
+
+### ✅ Day 7  
+Problems Solved:  
+1. Zigzag Conversion – [LeetCode 6](https://leetcode.com/problems/zigzag-conversion/)  
+2. String Compression – [LeetCode 443](https://leetcode.com/problems/string-compression/)  
+3. Largest Number – [LeetCode 179](https://leetcode.com/problems/largest-number/)  
+
 ✔️ **Status**: Done  
+
 
 ---
 
