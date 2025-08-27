@@ -76,6 +76,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 8  
+Problems Solved:  
+1. Next Greater Element I – [LeetCode 496](https://leetcode.com/problems/next-greater-element-i/)  
+2. Reverse Linked List – [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/)  
+3. Add Two Numbers – [LeetCode 2](https://leetcode.com/problems/add-two-numbers/)  
+
+✔️ **Status**: Done  
+
 
 ---
 
