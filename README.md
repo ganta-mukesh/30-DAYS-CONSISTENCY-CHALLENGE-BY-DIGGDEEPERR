@@ -84,6 +84,13 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 9  
+Problems Solved:  
+1. Implement Queue using Stacks – [LeetCode 232](https://leetcode.com/problems/implement-queue-using-stacks/)  
+2. Number of Recent Calls – [LeetCode 933](https://leetcode.com/problems/number-of-recent-calls/)  
+3. Design Circular Queue – [LeetCode 622](https://leetcode.com/problems/design-circular-queue/)  
+
+✔️ **Status**: Done  
 
 ---
 
