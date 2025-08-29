@@ -92,6 +92,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 10  
+Problems Solved:  
+1. Repeated DNA Sequences – [LeetCode 187](https://leetcode.com/problems/repeated-dna-sequences/)  
+2. Valid Word Abbreviation – [LeetCode 408](https://leetcode.com/problems/valid-word-abbreviation/)  
+3. Valid Palindrome II – [LeetCode 680](https://leetcode.com/problems/valid-palindrome-ii/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
