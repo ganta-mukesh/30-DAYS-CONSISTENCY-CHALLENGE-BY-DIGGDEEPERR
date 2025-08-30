@@ -100,6 +100,13 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 11  
+Problems Solved:  
+1. Range Sum Query - Immutable – [LeetCode 303](https://leetcode.com/problems/range-sum-query-immutable/)  
+2. Find Pivot Index – [LeetCode 724](https://leetcode.com/problems/find-pivot-index/)  
+3. Running Sum of 1d Array – [LeetCode 1480](https://leetcode.com/problems/running-sum-of-1d-array/)  
+
+✔️ **Status**: Done
 ---
 
 ## 🏆 Motivation  
