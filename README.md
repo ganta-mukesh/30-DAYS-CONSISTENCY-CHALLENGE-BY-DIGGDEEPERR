@@ -107,6 +107,15 @@ Problems Solved:
 3. Running Sum of 1d Array – [LeetCode 1480](https://leetcode.com/problems/running-sum-of-1d-array/)  
 
 ✔️ **Status**: Done
+
+### ✅ Day 12  
+Problems Solved:  
+1. Valid Perfect Square – [LeetCode 367](https://leetcode.com/problems/valid-perfect-square/)  
+2. First Bad Version – [LeetCode 278](https://leetcode.com/problems/first-bad-version/)  
+3. Peak Index in a Mountain Array – [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
