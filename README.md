@@ -116,6 +116,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 13  
+Problems Solved:  
+1. How Many Numbers Are Smaller Than the Current Number – [LeetCode 1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  
+2. Array Partition – [LeetCode 561](https://leetcode.com/problems/array-partition/)  
+3. Count Items Matching a Rule – [LeetCode 1773](https://leetcode.com/problems/count-items-matching-a-rule/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
