@@ -123,6 +123,13 @@ Problems Solved:
 3. Count Items Matching a Rule – [LeetCode 1773](https://leetcode.com/problems/count-items-matching-a-rule/)  
 
 ✔️ **Status**: Done  
+### ✅ Day 14  
+Problems Solved:  
+1. Split Array Largest Sum – [LeetCode 410](https://leetcode.com/problems/split-array-largest-sum/)  
+2. Capacity To Ship Packages Within D Days – [LeetCode 1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)  
+3. Arranging Coins – [LeetCode 441](https://leetcode.com/problems/arranging-coins/)  
+
+✔️ **Status**: Done  
 
 ---
 
