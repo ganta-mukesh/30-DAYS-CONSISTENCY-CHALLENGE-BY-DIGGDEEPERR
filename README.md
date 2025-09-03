@@ -131,6 +131,13 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 15  
+Problems Solved:  
+1. Score of Parentheses – [LeetCode 856](https://leetcode.com/problems/score-of-parentheses/)  
+2. Remove All Adjacent Duplicates in String – [LeetCode 1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
