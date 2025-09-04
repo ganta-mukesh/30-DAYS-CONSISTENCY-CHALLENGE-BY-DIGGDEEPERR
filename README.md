@@ -138,6 +138,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 16  
+Problems Solved:  
+1. Lemonade Change – [LeetCode 860](https://leetcode.com/problems/lemonade-change/)  
+2. Gas Station – [LeetCode 134](https://leetcode.com/problems/gas-station/)  
+3. Queue Reconstruction by Height – [LeetCode 406](https://leetcode.com/problems/queue-reconstruction-by-height/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
