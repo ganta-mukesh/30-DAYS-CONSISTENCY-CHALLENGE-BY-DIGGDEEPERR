@@ -146,6 +146,22 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 17  
+Problems Solved:  
+1. Rotate List – [LeetCode 61](https://leetcode.com/problems/rotate-list/)  
+2. Swap Nodes in Pairs – [LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)  
+3. Copy List with Random Pointer – [LeetCode 138](https://leetcode.com/problems/copy-list-with-random-pointer/)  
+
+✔️ **Status**: Done  
+
+### ✅ Day 18  
+Problems Solved:  
+1. Kth Largest Element in a Stream – [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)  
+2. K Closest Points to Origin – [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/)  
+3. Find Median from Data Stream – [LeetCode 295](https://leetcode.com/problems/find-median-from-data-stream/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
