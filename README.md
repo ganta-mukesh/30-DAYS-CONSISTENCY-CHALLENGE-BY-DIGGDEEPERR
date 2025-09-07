@@ -162,6 +162,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 19  
+Problems Solved:  
+1. Remove Duplicates from Sorted Array – [LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
+2. Merge Sorted Array – [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/)  
+3. Intersection of Two Arrays II – [LeetCode 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
