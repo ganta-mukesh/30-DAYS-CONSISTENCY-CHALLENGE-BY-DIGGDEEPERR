@@ -170,6 +170,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 20  
+Problems Solved:  
+1. Number of Recent Calls – [LeetCode 933](https://leetcode.com/problems/number-of-recent-calls/)  
+2. Implement Stack using Queues – [LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/)  
+3. Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
