@@ -178,6 +178,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 21  
+Problems Solved:  
+1. Subsets II – [LeetCode 90](https://leetcode.com/problems/subsets-ii/)  
+2. Combination Sum II – [LeetCode 40](https://leetcode.com/problems/combination-sum-ii/)  
+3. Permutations II – [LeetCode 47](https://leetcode.com/problems/permutations-ii/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
