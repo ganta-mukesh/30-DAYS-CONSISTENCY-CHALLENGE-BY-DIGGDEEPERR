@@ -186,6 +186,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 22  
+Problems Solved:  
+1. Binary Tree Inorder Traversal – [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)  
+2. Binary Tree Preorder Traversal – [LeetCode 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)  
+3. Binary Tree Postorder Traversal – [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
