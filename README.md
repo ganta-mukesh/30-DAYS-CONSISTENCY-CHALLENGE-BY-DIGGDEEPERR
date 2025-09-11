@@ -194,6 +194,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 23  
+Problems Solved:  
+1. Binary Tree Level Order Traversal – [LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
+2. Maximum Depth of Binary Tree – [LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
+3. Minimum Depth of Binary Tree – [LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
