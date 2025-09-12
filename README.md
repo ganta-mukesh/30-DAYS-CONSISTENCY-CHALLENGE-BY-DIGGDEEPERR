@@ -202,6 +202,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 24  
+Problems Solved:  
+1. Diameter of Binary Tree – [LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/)  
+2. Symmetric Tree – [LeetCode 101](https://leetcode.com/problems/symmetric-tree/)  
+3. Same Tree – [LeetCode 100](https://leetcode.com/problems/same-tree/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
