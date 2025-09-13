@@ -210,6 +210,15 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 25  
+Problems Solved:  
+1. Sum of Left Leaves – [LeetCode 404](https://leetcode.com/problems/sum-of-left-leaves/)  
+2. Range Sum of BST – [LeetCode 938](https://leetcode.com/problems/range-sum-of-bst/)  
+3. Search in Binary Search Tree – [LeetCode 700](https://leetcode.com/problems/search-in-a-binary-search-tree/)  
+
+✔️ **Status**: Done  
+
+
 ---
 
 ## 🏆 Motivation  
