@@ -218,6 +218,13 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 27  
+Problems Solved:  
+1. Is Graph Bipartite? – [LeetCode 785](https://leetcode.com/problems/is-graph-bipartite/)  
+2. Graph Valid Tree – [LeetCode 261](https://leetcode.com/problems/graph-valid-tree/)  
+3. Number of Connected Components in an Undirected Graph – [LeetCode 323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)  
+
+✔️ **Status**: Done  
 
 ---
 
