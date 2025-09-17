@@ -226,6 +226,14 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 28  
+Problems Solved:  
+1. Word Break – [LeetCode 139](https://leetcode.com/problems/word-break/)  
+2. Target Sum – [LeetCode 494](https://leetcode.com/problems/target-sum/)  
+3. Coin Change – [LeetCode 322](https://leetcode.com/problems/coin-change/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
