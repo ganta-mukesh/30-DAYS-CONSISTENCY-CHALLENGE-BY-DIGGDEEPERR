@@ -234,6 +234,21 @@ Problems Solved:
 
 ✔️ **Status**: Done  
 
+### ✅ Day 29  
+Problems Solved:  
+1. Unique Paths – [LeetCode 62](https://leetcode.com/problems/unique-paths/)  
+2. Longest Increasing Path in a Matrix – [LeetCode 329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  
+3. Minimum Path Sum – [LeetCode 64](https://leetcode.com/problems/minimum-path-sum/)  
+
+✔️ **Status**: Done  
+### ✅ Day 30  
+Problems Solved:  
+1. Unique Paths II – [LeetCode 63](https://leetcode.com/problems/unique-paths-ii/)  
+2. Triangle – [LeetCode 120](https://leetcode.com/problems/triangle/)  
+3. Cheapest Flights Within K Stops – [LeetCode 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/)  
+
+✔️ **Status**: Done  
+
 ---
 
 ## 🏆 Motivation  
